@@ -1,0 +1,8 @@
+Question1
+Part A
+
+https://geekflare.com/dev/fix-out-of-memory-error-in-windows/
+There are many the reasons for a computer to be out memory, but in this case i would ask the user if he/she was able to run other applications while having their 100 tabs open. If the user says 'no', then the issue is that there's too many tabs open on chrome for the system 
+to be able to run any other applications and each tab takes up RAM, some more than others depending on the website the tab is on, so having 100 tabs open all at once would take a lot of RAM and could prevent the computer to run properly. If the user says 'yes' then the issue could be a bit more complicated but still possible to fix like updating the software or application, restarting the computer or running a virus check.
+
+
