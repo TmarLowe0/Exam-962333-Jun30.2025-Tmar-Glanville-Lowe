@@ -5,4 +5,18 @@ https://geekflare.com/dev/fix-out-of-memory-error-in-windows/
 There are many the reasons for a computer to be out memory, but in this case i would ask the user if he/she was able to run other applications while having their 100 tabs open. If the user says 'no', then the issue is that there's too many tabs open on chrome for the system 
 to be able to run any other applications and each tab takes up RAM, some more than others depending on the website the tab is on, so having 100 tabs open all at once would take a lot of RAM and could prevent the computer to run properly. If the user says 'yes' then the issue could be a bit more complicated but still possible to fix like updating the software or application, restarting the computer or running a virus check.
 
+Part B
+
+https://www.pcmag.com/how-to/how-to-check-for-memory-problems-in-windows
+
+In this website,the article is telling the reader how to use the Windows Memory Diagonsitcs tool to do a test on the computer's memory to see if there's a problem with the system's memory.In this article, it describes each step of the diagonstics and which setting to recommend at each window of the insructions. 
+
+https://www.ninjaone.com/blog/how-to-run-windows-memory-diagnostics-tool/
+
+In this blog, the article tells what the Windows Memory Diagonsitcs tool is used for and when to use the application. The article tells multiple methods to acheive a similar result. the article also describes what that does the disgonsitic results mean and the method to acccess the test results.The article also recommends alternative thrid-party applications that could be used for to test the memory and when to use these alternative methods.
+
+https://www.dell.com/support/contents/en-us/article/product-support/self-support-knowledgebase/fix-common-issues/system-performance
+
+In this section of the Dell website, it talk about the common issues that causes the slower system performance.It also talks about the the common symptoms of a computer that's suffering from slower performance. It shows mulitiple methods that can help boost computer performance like updating windows, freeing up disk space,checking for malware. At the bottom of the page, it has a a FAQ and two videos showing how to backup an OS system restore and some the methods to boost systrem performance.
+
 
